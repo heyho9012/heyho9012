@@ -1,4 +1,4 @@
- # 👋🏻 John Ro   [<img align="right" src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/>](https://heyho9012.notion.site/John-Ro-7ea1484ef6494358a771f892f60bed96)
+ # 👋🏻 John Ro   
 <div>
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyho9012&theme=dracula&exclude_repo=Computer-Science-Engineering,clone-web-scrapper&hide=shell,php&layout=compact&langs_count=8"/>
 
